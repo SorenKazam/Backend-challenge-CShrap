@@ -1,0 +1,14 @@
+C:\Users\tguerreiro\source\repos\desafioVisualFormaBackEnd\obj\Debug\net9.0\desafioVisualFormaBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tguerreiro\source\repos\desafioVisualFormaBackEnd\obj\Debug\net9.0\desafioVisualFormaBackEnd.AssemblyInfoInputs.cache
+C:\Users\tguerreiro\source\repos\desafioVisualFormaBackEnd\obj\Debug\net9.0\desafioVisualFormaBackEnd.AssemblyInfo.cs
+C:\Users\tguerreiro\source\repos\desafioVisualFormaBackEnd\obj\Debug\net9.0\desafioVisualFormaBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\tguerreiro\source\repos\desafioVisualFormaBackEnd\bin\Debug\net9.0\desafioVisualFormaBackEnd.exe
+C:\Users\tguerreiro\source\repos\desafioVisualFormaBackEnd\bin\Debug\net9.0\desafioVisualFormaBackEnd.deps.json
+C:\Users\tguerreiro\source\repos\desafioVisualFormaBackEnd\bin\Debug\net9.0\desafioVisualFormaBackEnd.runtimeconfig.json
+C:\Users\tguerreiro\source\repos\desafioVisualFormaBackEnd\bin\Debug\net9.0\desafioVisualFormaBackEnd.dll
+C:\Users\tguerreiro\source\repos\desafioVisualFormaBackEnd\bin\Debug\net9.0\desafioVisualFormaBackEnd.pdb
+C:\Users\tguerreiro\source\repos\desafioVisualFormaBackEnd\obj\Debug\net9.0\desafioVisualFormaBackEnd.dll
+C:\Users\tguerreiro\source\repos\desafioVisualFormaBackEnd\obj\Debug\net9.0\refint\desafioVisualFormaBackEnd.dll
+C:\Users\tguerreiro\source\repos\desafioVisualFormaBackEnd\obj\Debug\net9.0\desafioVisualFormaBackEnd.pdb
+C:\Users\tguerreiro\source\repos\desafioVisualFormaBackEnd\obj\Debug\net9.0\desafioVisualFormaBackEnd.genruntimeconfig.cache
+C:\Users\tguerreiro\source\repos\desafioVisualFormaBackEnd\obj\Debug\net9.0\ref\desafioVisualFormaBackEnd.dll
